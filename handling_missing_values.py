@@ -39,3 +39,4 @@ print(salary_dataset.isnull().sum())
 
 salary_dataset = salary_dataset.dropna(how = 'any')
 print(salary_dataset.isnull().sum())
+
