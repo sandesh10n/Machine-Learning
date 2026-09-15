@@ -47,3 +47,4 @@ X_test_standardized = scaler.transform(X_test)
 print(X_train_standardized.std())
 
 
+
